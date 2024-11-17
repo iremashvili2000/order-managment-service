@@ -1,10 +1,11 @@
-HELP.md
+# Gradle files
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# IDE files (if not using specific IDEs, remove relevant sections)
 ### STS ###
 .apt_generated
 .classpath
